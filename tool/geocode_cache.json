@@ -1,0 +1,966 @@
+{
+ "New Airport Square": null,
+ "Capital Hospital": [
+  20.2601364,
+  85.8227171,
+  "Capital Hospital (Bhubaneswar), Capital hospital road, Unit-6, Ward 46, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India"
+ ],
+ "AG Square": [
+  20.289773785313063,
+  85.83091277629137,
+  "New AG Colony, Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Bhubaneswar Club": [
+  20.2886661,
+  85.8445151,
+  "Saheed Sporting Club, Ward 30, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Nautala": [
+  20.2715088,
+  85.8293972,
+  "Nautala Bus Stop, Gopabandhu Marg, Unit-5, Ward 36, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751000, India"
+ ],
+ "Power House Square": [
+  20.275094456243814,
+  85.82155723124743,
+  "DAV - Power House Road, 751 001 South West Zone, Odisha, India"
+ ],
+ "Sail Office": [
+  20.2795491,
+  85.8264294,
+  "SAIL Office, Bidyut Marg, Unit-4, Ward 36, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Shastri Nagar Square": null,
+ "The World": null,
+ "Kalinga Stadium Gate-2": null,
+ "Kalinga Stadium Gate-8": null,
+ "Pal Heights": [
+  20.297825016204936,
+  85.82330536097288,
+  "Jaydev Vihar Besid Pal Heights, 751 003 North Zone, Odisha, India"
+ ],
+ "Mayfair Road": [
+  20.3024231,
+  85.8193071,
+  "MayFair Hotel & Resorts, Nandankanan Road, Ward 16, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751013, India"
+ ],
+ "Janata Maidan": null,
+ "Xavier Square": [
+  20.306707205365708,
+  85.81956502050161,
+  "Xavier Square, 751 013 North Zone, Odisha, India"
+ ],
+ "Fortune Tower": [
+  20.3097402,
+  85.8191983,
+  "Fortune Tower, Nandankanan Road, Ward 16, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751013, India"
+ ],
+ "Kalinga Hospital Square": null,
+ "Rail Sadan": null,
+ "Omfed Square": null,
+ "Niladri Vihar Square": [
+  20.328758417209116,
+  85.80311041513244,
+  "Sector-5 Niladri Vihar, 751 021 North Zone, Odisha, India"
+ ],
+ "Damana Square": [
+  20.342333034042962,
+  85.82279808819294,
+  "DAMANA, 751 017 North Zone, Odisha, India"
+ ],
+ "Chandrasekharpur PS": null,
+ "Patia Square": [
+  20.360451069805663,
+  85.82461260259151,
+  "Patia, 751 024 North Zone, Odisha, India"
+ ],
+ "CIPET": null,
+ "Infocity Square": [
+  20.340108880420704,
+  85.80040633678436,
+  "Infocity, 751 024 North Zone, Odisha, India"
+ ],
+ "DLF Cybercity": null,
+ "Silicon College": null,
+ "Shikharchandi": [
+  20.3563674,
+  85.8055876,
+  "Shikharchandi Temple, KIIT Road, Ward 1, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751024, India"
+ ],
+ "KIMS Hospital": null,
+ "KIIT Campus Stop": [
+  20.348209503449922,
+  85.81594983945536,
+  "KIIT Campus, 751 024 North Zone, Odisha, India"
+ ],
+ "Shikharchandi Vihar": null,
+ "Nandan Vihar": [
+  20.2961516,
+  85.8244698,
+  "Jaydev Vihar to Nandan Kanan Bus Stop, Nandankanan Road, Ward 27, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751013, India"
+ ],
+ "Mani Tribhuvan": null,
+ "Royal Lagoon": [
+  20.3741916,
+  85.8317851,
+  "Royal Lagoon, Nandankanan Road, Nandankanan, Khordha, Odisha, 754005, India"
+ ],
+ "Raghunathpur": [
+  20.3740585,
+  85.8305054,
+  "SBI Raghunathpur Branch, Nandankanan Road, Nandankanan, Khordha, Odisha, 754005, India"
+ ],
+ "Raghunathpur Village": null,
+ "Nandankanan": [
+  20.35598030556973,
+  85.82757409662008,
+  "Nandankanan Road, 751 024 North Zone, Odisha, India"
+ ],
+ "Barang": [
+  20.416807796812225,
+  85.83087086677551,
+  "Barang, Odisha, India"
+ ],
+ "Barang PS": null,
+ "Bachhipur": null,
+ "Madhuban": null,
+ "Trisulia Square": null,
+ "Kunheipada": null,
+ "Judicial Academy": [
+  20.4679606,
+  85.854351,
+  "Orissa Judicial Academy, Chandini Chowk Road, Barabati Killa, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753014, India"
+ ],
+ "Dagarpada Road": null,
+ "Sati Choura Square": null,
+ "Eye Hospital Square": null,
+ "CDA 6 Park": null,
+ "CDA 9 Market Square": null,
+ "Raj Kishore Marg": null,
+ "Saraswati Sishu Mandir": [
+  20.464193,
+  85.9157048,
+  "Saraswati Sishu Vidya Mandir, NH16;NH55, Khapuria, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Justice Square": null,
+ "State Bank Square": null,
+ "Biju Patnaik Park": [
+  20.47907082785799,
+  85.86622606962919,
+  "Biju Patnaik Colony, Cuttack (M.Corp.) P.S, Odisha, India"
+ ],
+ "Trident College": null,
+ "Sai Enclave": [
+  20.2581953,
+  85.7770476,
+  "Sri Satya Sai Enclave, Ward 49, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Sailashree Vihar Square": [
+  20.332971664445072,
+  85.80878928583377,
+  "Phase 6 Sailashree Vihar, 751 021 North Zone, Odisha, India"
+ ],
+ "Damana Haat": null,
+ "Press Square": null,
+ "Sainik School Square": [
+  20.3137609,
+  85.8397384,
+  "Sainik School Bhubaneswar, Sachivalaya Marg, Acharya Vihar Square, Ward 12, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751005, India"
+ ],
+ "Apollo Hospital": [
+  20.305642,
+  85.8316432,
+  "Apollo Hospitals, Sachivalaya Marg, Acharya Vihar Square, Ward 12, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751005, India"
+ ],
+ "Utkal University Gate-4": null,
+ "Acharya Vihar Square": [
+  20.296969693021133,
+  85.83326239138842,
+  "Acharya Vihar Square, Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Vanivihar Square": null,
+ "RD Women's College": null,
+ "Rupali Square": [
+  20.28964453705129,
+  85.84401436150074,
+  "Rupali street, 751 007 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Maharshi College Square": null,
+ "Satya Nagar": [
+  20.27526082787221,
+  85.85317578166723,
+  "Satya Nagar, Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Satya Nagar Square": [
+  20.27526082787221,
+  85.85317578166723,
+  "Satya Nagar, Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Ram Mandir": [
+  20.277535,
+  85.8429743,
+  "Ram Mandir, Madhusudan Marg, Unit-3, Ward 35, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751000, India"
+ ],
+ "Sriya Square": null,
+ "Master Canteen": [
+  20.26846932377618,
+  85.8407873287797,
+  "Master Canteen Chowk, 751 001 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Exhibition Ground": [
+  20.2776907,
+  85.8370931,
+  "IDCO Exhibition Ground, Ward 35, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "AG Colony": [
+  20.289773785313063,
+  85.83091277629137,
+  "New AG Colony, Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Koel Campus": null,
+ "Ananda Bazaar": null,
+ "Nicco Park Square": [
+  20.2901551,
+  85.8266923,
+  "Nicco Park, Bidyut Marg, Jayadev Vihar Square, Ward 28, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India"
+ ],
+ "Rotary Bhavan": null,
+ "Housing Board Square": [
+  20.278856172654123,
+  85.83509601652622,
+  "Housing Board Square, 751 001 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Keshari Talkies": [
+  20.2773065,
+  85.8369592,
+  "Keshari Talkies, Madhusudan Marg, Unit-3, Ward 35, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751000, India"
+ ],
+ "Rabindra Mandap": [
+  20.2734583,
+  85.8330906,
+  "Rabindra Mandap, Sachivalaya Marg, A G Colony, Ward 36, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751000, India"
+ ],
+ "Secretariat": [
+  20.2707991,
+  85.8310017,
+  "Secretariat, Government of Odisha, Sachivalaya Marg, Unit-2, Ward 40, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751000, India"
+ ],
+ "Raj Mahal Square": null,
+ "Kalpana Square": [
+  20.257083751066123,
+  85.8449075371027,
+  "Kalpana Road, 751 014 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "State Museum": [
+  20.2558788,
+  85.8411761,
+  "Odisha State Museum, Lewis Road, Ward 56, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751014, India"
+ ],
+ "BJB College": [
+  20.2528052,
+  85.8421872,
+  "BJB College, Lewis Road, Ward 56, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751014, India"
+ ],
+ "NCC Canteen": null,
+ "Shree Hospital": [
+  20.2483697,
+  85.8415191,
+  "Shree Hospitals, Lewis Road, Ward 56, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751014, India"
+ ],
+ "Ravi Talkies Square": [
+  20.244621852539876,
+  85.8410719782114,
+  "Ravi Talkies Square, 751 014 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Kedar Gouri Temple": null,
+ "Gouri Nagar": null,
+ "Lingaraj Temple Road": [
+  20.2351133,
+  85.8163773,
+  "Lingaraj Temple Road, Pokhariput Flyover, Ward 67, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751020, India"
+ ],
+ "Samantarapur": null,
+ "Nuagaon": null,
+ "Sishupalgarh": null,
+ "Lingipur": [
+  20.2137892,
+  85.8536106,
+  "Lingipur Chowk, Cuttack - Puri Bypass Road, Sisupalgarh, Bhubaneswar, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India"
+ ],
+ "Satsang Vihar": null,
+ "VSS Nagar Road": [
+  20.30408445453923,
+  85.84523744881153,
+  "VSS NAGAR, 751 010 North Zone, Odisha, India"
+ ],
+ "Rasulgarh Square": [
+  20.295906192682,
+  85.86292997002602,
+  "Rasulgarh, 751 010 North Zone, Odisha, India"
+ ],
+ "Palasuni": [
+  20.300275405701036,
+  85.8647060338003,
+  "Palasuni, 751 010 North Zone, Odisha, India"
+ ],
+ "Saptasati Temple": null,
+ "Hi-Tech Hospital Square": null,
+ "Hanspal Square": null,
+ "Puri Canal Road": [
+  20.426938036271533,
+  85.82087762653828,
+  "Puri canal, Odisha, India"
+ ],
+ "Highway Honda": null,
+ "Utkal Heights": [
+  20.33431712852057,
+  85.88510747998953,
+  "Utkal Heights Road, 752 101 North Zone, Odisha, India"
+ ],
+ "Pahala": null,
+ "Apex College": null,
+ "Nakhara Square": null,
+ "Bamphakuda": null,
+ "Telenga Pentha": null,
+ "Delta Gada": null,
+ "Pratap Nagari": null,
+ "Bhanpur": null,
+ "Balikuda": [
+  20.4327894,
+  85.8786691,
+  "Gopalpur Balikuda, NH16, Khapuria, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Gopalpur Railway Station": null,
+ "Khapuria Square": [
+  20.446054567473723,
+  85.8996319770813,
+  "Khapuria, Cuttack (M.Corp.) P.S, Odisha, India"
+ ],
+ "Link Road": [
+  20.453045910925674,
+  85.88977955281734,
+  "Link Road, 753 012 Cuttack (M.Corp.) P.S, Odisha, India"
+ ],
+ "Nisamani Talkies": null,
+ "Arundoya Market": null,
+ "Pala Mandap": [
+  20.4573019,
+  85.8851031,
+  "Puri Bus Stand, Pala Mandap, Link Road, Badambadi, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Badambadi Bus Stand": [
+  20.4587134,
+  85.8813249,
+  "Badambadi Bus Stand, Kathajodi Road, Badambadi, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Khannagar Traffic": null,
+ "City College": [
+  20.4574415,
+  85.8734688,
+  "Rajabagicha City College, Ring Road, Badambadi, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Puri Ghat PS": null,
+ "Cuttack Sai Temple": null,
+ "High Court Road": [
+  20.4647134,
+  85.8587015,
+  "Orissa High Court, Chandini Chowk Road, Barabati Killa, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Sishu Bhawan (Cuttack)": [
+  20.4653094,
+  85.8577815,
+  "PPU, Sishu Bhawan, Netaji Subhash Chandra Bose Setu, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753002, India"
+ ],
+ "Badambadi Square": [
+  20.458415096966988,
+  85.87679330259562,
+  "Badambadi, Cuttack (M.Corp.) P.S, Odisha, India"
+ ],
+ "Krushak Bazaar": null,
+ "Bidanasi": [
+  20.4820141,
+  85.8408058,
+  "Bidanasi Football Ground, Lane 3, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Chahata Ghata": null,
+ "Police Signal Traffic School": null,
+ "Shifa Hospital": [
+  20.4893857,
+  85.8520597,
+  "Shifa Hospital, Ring Road, Barabati Killa, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753008, India"
+ ],
+ "Deer Park": [
+  20.4883995,
+  85.8622523,
+  "Deer Park, Barabati Killa, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Baliyatra Ground": null,
+ "Barabati Stadium": [
+  20.4807044,
+  85.8685254,
+  "Barabati Stadium, Kala Vikash Kendra Road, Barabati Killa, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "Baramunda ISBT": null,
+ "Baramunda": [
+  20.280397179661623,
+  85.79404592139781,
+  "Baramunda, 751 003 South West Zone, Odisha, India"
+ ],
+ "Rajdhani College": [
+  20.2764098,
+  85.7977364,
+  "Rajdhani College, Flyover, Ward 50, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Gopabandhu Nagar": null,
+ "CRPF Square": [
+  20.2845723,
+  85.8082248,
+  "CRPF Square, CRP - DAV Road, Ward 38, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Nayapalli": [
+  20.28319142111831,
+  85.81866949796677,
+  "Nayapalli, South West Zone, Odisha, India"
+ ],
+ "Iskcon Temple": [
+  20.2890158,
+  85.8133415,
+  "ISKCON Temple, Flyover, Ward 25, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Nabard": [
+  20.32125,
+  85.8149321,
+  "NABARD, Care Hospital Road, Ward 8, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751023, India"
+ ],
+ "Samrat Cinema": [
+  20.4511033,
+  85.898571,
+  "Samrat Cinema Hall, NH16, Khapuria, Cuttack, Cuttack (M.Corp.) P.S, Cuttack, Odisha, 753001, India"
+ ],
+ "OMP Square": null,
+ "Gandarpur": [
+  20.3810543,
+  85.8564909,
+  "Gandarpur, Nandankanan, Khordha, Odisha, 751034, India"
+ ],
+ "Shikharpur": null,
+ "Jagatpur": [
+  20.4914265006883,
+  85.9384485706687,
+  "Jagatpur, Odisha, India"
+ ],
+ "Police Academy": null,
+ "Alu Godam": null,
+ "Aiginia": [
+  20.249632,
+  85.7834172,
+  "Aiginia, Ward 49, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751019, India"
+ ],
+ "Kolathia": [
+  20.25283899183024,
+  85.78008893877268,
+  "Kolathia Road, 751 030 South West Zone, Odisha, India"
+ ],
+ "Khandagiri Square": [
+  20.266122704140415,
+  85.78322377055883,
+  "Khandagiri, South West Zone, Odisha, India"
+ ],
+ "IMMT": [
+  20.2998047,
+  85.8266836,
+  "IMMT Park, Ward 12, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Patrapada": [
+  20.2440463,
+  85.7727823,
+  "Sridurga Patrapada, Alugadi Flyover, Shreekhetra Vihar, Khandagiri, Khordha, Odisha, 751015, India"
+ ],
+ "K9": null,
+ "Kalinga Vihar Square": [
+  20.2909358,
+  85.8249847,
+  "Kalinga Hockey Stadium, Bidyut Marg, Jayadev Vihar Square, Ward 37, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751001, India"
+ ],
+ "Tamando": [
+  20.238361901863666,
+  85.74614491313696,
+  "Tamando, Odisha, India"
+ ],
+ "Gohiria Square": null,
+ "Retang Road Square": null,
+ "Janla Post Office": [
+  20.175594646332833,
+  85.61372056603432,
+  "POST OFFICE ROAD, 752 057 Khordha, Odisha, India"
+ ],
+ "Janla Medical": null,
+ "Bhuasuni Temple": null,
+ "Jatani Gate": [
+  20.2230531,
+  85.7340276,
+  "CGU Front Gate, NH16, Janla, Jatani, Khordha, Odisha, 752054, India"
+ ],
+ "Gangapada": [
+  20.207371119084307,
+  85.67349828779697,
+  "Gangapada, Jatani, Odisha, India"
+ ],
+ "Pitapalli Square": null,
+ "Khordha Bypass Square": [
+  20.1859033,
+  85.6444822,
+  "Khordha Bypass Square, Khurda Bypass, Bypass Colony, Khurdha Municipality Boundary, Khordha, Odisha, 752057, India"
+ ],
+ "DRDA": null,
+ "Khordha New Bus Stand": [
+  20.174817955877213,
+  85.61432037502527,
+  "New Bus Stand, 752 057 Khordha, Odisha, India"
+ ],
+ "Unit 6": [
+  20.264830334062996,
+  85.82339454442263,
+  "Unit-6, South West Zone, Odisha, India"
+ ],
+ "OUAT Square": [
+  20.262503474651183,
+  85.81563927233219,
+  "OUAT Hostel Lane 1, 751 003 South West Zone, Odisha, India"
+ ],
+ "City Women's College": [
+  20.2700346,
+  85.8070467,
+  "city women's college, Azad Marg, Ward 48, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Satabdi Nagar": null,
+ "Delta Square": null,
+ "Vivekanand Hospital": null,
+ "Bapuji Nagar": [
+  20.256833063433906,
+  85.8358969911933,
+  "Bapuji Nagar Bhubaneswar, 751 009 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Sishu Bhawan Square": null,
+ "Forest Park": [
+  20.256169174365468,
+  85.82436729222536,
+  "Forest Park, 751 009 South West Zone, Odisha, India"
+ ],
+ "Old Airport Square": null,
+ "Naveen Nivas": null,
+ "Palaspalli": null,
+ "Poonama Flyover": null,
+ "Bhimatangi": [
+  20.237055018545316,
+  85.82090127275353,
+  "Bhimatangi Road, 751 002 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Ekamra College": [
+  20.2579146,
+  85.8215667,
+  "Yuvodaya College, Ekamra Road, Unit-7, Ward 46, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 752010, India"
+ ],
+ "Lingaraj Station": [
+  20.2228063,
+  85.8445422,
+  "Lingaraj Filling Station, Lewis Road, Ward 58, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 752104, India"
+ ],
+ "Sundarpada Square": null,
+ "Gauri Dham": null,
+ "Botanda": null,
+ "Chandi Bazaar": null,
+ "Kantilo": null,
+ "Khetrapala": null,
+ "Biri Bandha": null,
+ "Srusti Mansion": null,
+ "Pradhan Sahi": null,
+ "Aryan College": null,
+ "Jamukoli": null,
+ "Bahupada": null,
+ "OEC": null,
+ "XUB": null,
+ "Niranjanpur Square": null,
+ "Harirajpur Square": null,
+ "Baba Somanatha Square": null,
+ "Kudiary High School": null,
+ "Nilakantheswar Square": null,
+ "Sayeed Memorial Hospital": [
+  20.1547876,
+  85.7143998,
+  "Sayeed Memorial Hospital, Khorda - Jatani Road Underpass, Jatani, Khordha, Odisha, 752050, India"
+ ],
+ "Khordha Road Station": [
+  20.14788347837089,
+  85.63843678683043,
+  "Khordha Town to IIT Road, Jatani, Odisha, India"
+ ],
+ "Jatani PS": null,
+ "Jatani Municipal Council": null,
+ "Haribana Square": null,
+ "Block Square": null,
+ "IIT Road": [
+  20.16040284952237,
+  85.67862868309021,
+  "IIT Road, Jatani, Odisha, India"
+ ],
+ "NISER": [
+  20.1750572,
+  85.6851984,
+  "NISER Bhubaneswar, Khorda - Jatani Road, Jatani, Khordha, Odisha, 752050, India"
+ ],
+ "Padanpur": null,
+ "BSF Battalion Camp": null,
+ "Governor House Square": null,
+ "Surya Nagar": null,
+ "Gopabandhu Square": [
+  20.269718575241903,
+  85.81310357898474,
+  "Gopabandhu Square, 751 003 South West Zone, Odisha, India"
+ ],
+ "Siripur Market": null,
+ "CRPF KV": null,
+ "Rental Colony": [
+  20.2892284,
+  85.7987534,
+  "Rental Colony Park, Ward 15, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Jagannath Vihar": [
+  20.2471605,
+  85.7716396,
+  "Shree Jagannath Store, Alugadi Flyover, Ward 64, South West Zone, Shreekhetra Vihar, Khandagiri, Khordha, Odisha, 751019, India"
+ ],
+ "Agriculture Directorate": null,
+ "Kalinga Studio Square": [
+  20.2878662,
+  85.7812248,
+  "Kalinga Studio Square, Ward 23, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751029, India"
+ ],
+ "Ayurveda College": null,
+ "Shyampur": null,
+ "SUM Hospital": [
+  20.2834826,
+  85.7696633,
+  "IMS SUM Hospital, Khandagiri - Chandaka Road, Khandagiri, Ward 23, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751003, India"
+ ],
+ "Sai Temple": [
+  20.3858055,
+  85.8216219,
+  "Sai Temple, Nandankanan Road, Nandankanan, Khordha, Odisha, 754005, India"
+ ],
+ "Megheswar Temple": null,
+ "Brahmeswar Patna": null,
+ "Ratnakar Bagh": null,
+ "Chili Pokhari": null,
+ "Raja Rani Temple": null,
+ "Sabarashi Lane": null,
+ "Old Station Bazaar": [
+  20.264324580077957,
+  85.84439657628536,
+  "Old Station Bazaar, 751 001 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Laxmi Sagar Square": null,
+ "Yatri Nivas": null,
+ "Jharpada": [
+  20.2882445,
+  85.862808,
+  "Jharpada Mandir & Park, Ward 19, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Ekamra Talkies": null,
+ "Bomikhal": null,
+ "Rasulgarh Market": null,
+ "Khandagiri Bypass Road": null,
+ "Kalinga Vihar K5": [
+  20.2616273,
+  85.7608837,
+  "Kalinga Vihar Road, K7, Kalinga Nagar, Ward 23, South West Zone, Shreekhetra Vihar, Khandagiri, Khordha, Odisha, 751015, India"
+ ],
+ "Hanuman Mandir": [
+  20.2450009,
+  85.8372757,
+  "Hanuman Mandir, Tankapani Road, Ward 55, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751014, India"
+ ],
+ "Kalinga Vihar": [
+  20.2903875,
+  85.8244174,
+  "Kalinga Stadium, Jaydev Vihar Flyover, Ward 27, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751013, India"
+ ],
+ "Mancheswar Station": [
+  20.30650407818717,
+  85.85287503898144,
+  "Mancheswar Industrial Estate, North Zone, Odisha, India"
+ ],
+ "Dhirikuti Sahi": [
+  20.3165169,
+  85.8443297,
+  "Dhirikuti Sahi football Ground, Ward 11, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "DL Colony": null,
+ "VSS Nagar Market": [
+  20.30408445453923,
+  85.84523744881153,
+  "VSS NAGAR, 751 010 North Zone, Odisha, India"
+ ],
+ "VSS Nagar": [
+  20.30408445453923,
+  85.84523744881153,
+  "VSS NAGAR, 751 010 North Zone, Odisha, India"
+ ],
+ "PNT Colony": null,
+ "Pokhariput": [
+  20.23474296911647,
+  85.81359710544348,
+  "Pokhariput Flyover, 751 020 South West Zone, Odisha, India"
+ ],
+ "Ganganagar Square": null,
+ "Housing Board Colony": [
+  20.278856172654123,
+  85.83509601652622,
+  "Housing Board Square, 751 001 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Madhusudan Park": [
+  20.2465274,
+  85.8107165,
+  "Madhusudan Das Park, Ward 62, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751020, India"
+ ],
+ "Kalabhoomi": [
+  20.250936,
+  85.8074375,
+  "Kalabhoomi, Shanti Viahar Road, Ward 50, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751020, India"
+ ],
+ "ITER College": null,
+ "Jagamara": [
+  20.26633626340657,
+  85.79993762075901,
+  "Jagamara-Baramunda Road, 751 003 South West Zone, Odisha, India"
+ ],
+ "Jagannath Temple (Khandagiri)": [
+  20.3124158,
+  85.818161,
+  "Jagannath Temple, way to RCM Bhubaneswar, Ward 16, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751023, India"
+ ],
+ "Kids Hospital": [
+  20.2455264,
+  85.7849084,
+  "kIDS HOSPITAL, dumuduma bazar road, Ward 65, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751019, India"
+ ],
+ "Dumduma": [
+  20.239603,
+  85.788816,
+  "Dumduma Dental Clinic, sarakantra road, Ward 65, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751019, India"
+ ],
+ "Raghunath Nagar": null,
+ "Mancheswar Railway Station Road": null,
+ "CIME College": null,
+ "IDCO Tower": [
+  20.2886457,
+  85.842082,
+  "IDCO Tower, Jan Path, Ward 29, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751007, India"
+ ],
+ "SBI Chhak": [
+  20.281202599657483,
+  85.82626316696405,
+  "SBI Colony road, 751 001 South West Zone, Odisha, India"
+ ],
+ "Mancheswar PS": null,
+ "Krushi Vihar Square": null,
+ "Soubhagya Nagar": null,
+ "Soubhagya Nagar Phase-2": null,
+ "Baramunda Shiva Temple": null,
+ "Dharma Vihar Road": null,
+ "Mallick Complex": null,
+ "Dumduma Housing Board Colony": null,
+ "Unit 8 Colony": null,
+ "OUAT Guest House": null,
+ "CBI Office": null,
+ "Jaleswar Temple": null,
+ "Kalyani Market": null,
+ "Unit 8 Square": [
+  20.27706197016376,
+  85.81082873046398,
+  "Unit-8, South West Zone, Odisha, India"
+ ],
+ "Passport Office": null,
+ "CPWD Office": null,
+ "Binayaka Enclave": null,
+ "Satya Sai Enclave": [
+  20.2581953,
+  85.7770476,
+  "Sri Satya Sai Enclave, Ward 49, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "AMRI Hospital": [
+  20.2880923,
+  85.8466525,
+  "Amri Hospitals, Rupali street, Ward 30, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751007, India"
+ ],
+ "Jaydev Vatika": null,
+ "Jaydev Vatika Square": null,
+ "Khandagiribari": [
+  20.3681847,
+  85.8318272,
+  "Godrej Interio - Modular Kitchen Gallery, Khandagiribari, Khandagiri, Bhubaneswar, DAMANA, Ward 3, North Zone, Bhubaneswar Municipal Corporation, Nandankanan, Khordha, Odisha, 751024, India"
+ ],
+ "Naka Gate": [
+  20.2725024,
+  85.7836901,
+  "Naka Gate Square, Ward 49, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751003, India"
+ ],
+ "CET College": null,
+ "Valia Square": null,
+ "Ghatikia": [
+  20.272159492995463,
+  85.76769445091486,
+  "Ghatikia Main Road, 751 029 South West Zone, Odisha, India"
+ ],
+ "K7 Kalyan Mandap": [
+  20.2777301,
+  85.8185937,
+  "Kalyan Mandap lane, TA Battalion, Ward 39, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751012, India"
+ ],
+ "Kalinga Nagar": [
+  20.2680426,
+  85.7623093,
+  "K7, Kalinga Nagar, Ward 23, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Paikarapur (Kalinga Nagar)": null,
+ "Paikarapur Housing Colony": [
+  20.26963365665428,
+  85.78547816723585,
+  "Paradeep housing colony road, 751 003 South West Zone, Odisha, India"
+ ],
+ "K9 Lane 4": null,
+ "RI Office": null,
+ "BJEM School": [
+  20.2462435,
+  85.8969607,
+  "BJEM School Parking-Lot, Dibakar Marg, Balianta, Khordha, Odisha, 751018, India"
+ ],
+ "Biswanath Nagar": null,
+ "Badagada Haat": null,
+ "Badagada High School": [
+  20.267014681687954,
+  85.7872960343957,
+  "Tapoban High School Road, 752 011 South West Zone, Odisha, India"
+ ],
+ "Badagada PS": null,
+ "Panchu Pandav Caves": null,
+ "BDA Park": [
+  20.2926521,
+  85.8065239,
+  "BDA Park, Ward 25, South West Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, India"
+ ],
+ "Badagada Brit Colony": null,
+ "SR Valley": null,
+ "Mangraj Point": null,
+ "Jena Market": null,
+ "SBI Colony (Kesora)": [
+  20.281202599657483,
+  85.82626316696405,
+  "SBI Colony road, 751 001 South West Zone, Odisha, India"
+ ],
+ "Nuagaon Square": null,
+ "Malipada": null,
+ "RI Paikarapur": null,
+ "Gothapatna Square": null,
+ "IIIT Square": null,
+ "Paikarapur": null,
+ "ROTI": null,
+ "Kateni": null,
+ "Adurta Sishu Sadan": null,
+ "Giringaput": null,
+ "OPTCL Grid Sub Station": null,
+ "Community Health Centre": null,
+ "Mendhasal": null,
+ "Biju Patnaik Open Air Ashram": null,
+ "Laxmi Sagar": null,
+ "Laxmi Sagar PS": null,
+ "Jail Square": [
+  20.27002459628508,
+  85.85574500262737,
+  "Jail Road, 751 006 Bhubaneswar Municipal Corporation, Odisha, India"
+ ],
+ "Ganesh Mandap": null,
+ "Santi Nagar": null,
+ "Shibani Enclave": null,
+ "Bhagabat Sandhan": [
+  20.2900186,
+  85.8630892,
+  "Bhagabat sandhan new renovated park, Ward 19, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751010, India"
+ ],
+ "GGP Canal Road": null,
+ "GGP Colony": null,
+ "Srusti Villa": null,
+ "Pandara Square": null,
+ "Pandara Market": null,
+ "Hi-Tech Hospital": [
+  20.3039069,
+  85.87846,
+  "Hi Tech Medical College, Bhubaneswar, Cuttack - Puri Bypass Road, Ward 18, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751025, India"
+ ],
+ "Lingaraj Temple": null,
+ "Sri Sri Borda Hospital": null,
+ "Nathapur": null,
+ "Dhauli Square": null,
+ "Uttara Square": null,
+ "CIFA": [
+  20.1830358,
+  85.8501785,
+  "ICAR-CIFA - Central Institute of Freshwater Research, Dhauli, Uttara P.S, Khordha, Odisha, India"
+ ],
+ "KEC": null,
+ "Gudia Pokhari Square": null,
+ "Gobardhanpur": null,
+ "Jaishpatna Chowk": null,
+ "Pipili Bypass": null,
+ "Pipili Nimapada Square": null,
+ "Saradeipur": null,
+ "Balakati Govt School": null,
+ "Balakati": [
+  20.2033661,
+  85.8685601,
+  "CHC, Balakati, Bhubaneswar Puri Highway, Bhubaneswar, Bhubaneswar (M.Corp.), Khordha, Odisha, 752100, India"
+ ],
+ "Balakati Post Office": null,
+ "Dulladei Temple": null,
+ "Sai Hospital": [
+  20.1982244,
+  85.8921327,
+  "Sai Saburi Hospitals Private Hospital, Bhubaneswar Puri Highway, Uttara, Pipili, Khordha, Odisha, 752100, India"
+ ],
+ "Satasankha": [
+  19.9955791602765,
+  85.82378145307302,
+  "Satasankha, Pipili, Odisha, India"
+ ],
+ "Sakhigopal": [
+  19.948309748873076,
+  85.81452783197165,
+  "Sakhigopal, Satyabadi, Odisha, India"
+ ],
+ "Chandanpur": [
+  19.890490351145335,
+  85.81736661493778,
+  "Chandanpur, Odisha, India"
+ ],
+ "Malatipatpur": [
+  19.8657782,
+  85.8314557,
+  "Malatipatpur, Bhubaneswar Puri Highway, Chandanpur, Puri, Odisha, 752012, India"
+ ],
+ "Nimapada Bus Stand": [
+  20.0668733,
+  85.990804,
+  "Nimapara Bus Stand, SH13, Nimapada, Puri, Odisha, India"
+ ],
+ "Gop Market": null,
+ "Gop PS": null,
+ "Begunia": [
+  19.9610436,
+  86.0349793,
+  "Begunia, Gop, Puri, Odisha, 752116, India"
+ ],
+ "Sareda": null,
+ "Junei": null,
+ "Madipur Chhak": null,
+ "Konark PS": null
+}
